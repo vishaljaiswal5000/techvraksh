@@ -4,6 +4,7 @@
  __Social Links__ :
  __Portfolio__ : -->
 
+
 - **Name** : Srashti Jain  
   **About** : Founder @TechVraksh | Microsoft MVP | Google Developer Expert (Angular)  
   **Tech Stack** : .NET, MS SQL, Angular, NodeJS, Azure
@@ -19,3 +20,8 @@
   **Tech Stack** : C++, Python, React ,Express, MongoDB,Bootstrap , Numpy, Matplotlib, Scikit Learn
   **Social Links** :[Youtube](https://www.youtube.com/channel/UCx-HdHfKu1rXgNIfNaKMsAA) | [Twitter](https://twitter.com/saumya4real) | [Linkedin](https://www.linkedin.com/in/saumya66) | [Github](https://github.com/saumya66)
 
+- __Name__ : Pulkit Singh             
+ __About__ : Founder [@PUGroups](https) | Deeplearning.ai Event Ambassador | Author @FreeCodeCamp | Organiser @MLHacks | Community & Opensource Guy & more...       
+ __Tech Stack__ : HTML, CSS, Javascript, Python, ML & AI, Cloud Computing ( Google Cloud, Azure, Digital Ocean ), Git , Github
+ __Social Links__ : [Portfolio](https://pulkitsinghdev.tech) | [Dev](https://dev.to/PulkitSinghDev) | [Twitter](https://twitter.com/PulkitSinghDev) | [Github](https://github.com/PulkitSinghDev) | [Youtube](https://www.youtube.com/channel/UCWvqpm9sTcjgXLkp5Ylro-A) | [Patreon](https://www.patreon.com/pulkitsinghdev)      
+ __Portfolio__ : [Holistic Media Pipe](https://codepen.io/pulkitsinghdev/full/qBRpxrj) | [Discord & Twitter Bots]() | [Data Visualizer](https://github.com/PulkitSinghDev/Web-App-for-Data-Visualisation) & more...
