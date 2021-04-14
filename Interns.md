@@ -28,5 +28,5 @@
  
 - **Name** : Ritesh P. Kurve   
   **About** : Founder @OnlineGadchiroli | Full Stack Web Developer | Intern @TechVraksh  
-  **Tech Stack** : Java, Materialize CSS, VueJS, PHP, MySQL, Codeigniter
+  **Tech Stack** : Java, Materialize CSS, VueJS, PHP, MySQL, Codeigniter    
   **Social Links** : [Linkedin](https://www.linkedin.com/in/ritesh-kurve-57727a1a2)  | [Twitter](https://twitter.com/Ritesh85106128) | [Github](https://github.com/Ritesh9q)
