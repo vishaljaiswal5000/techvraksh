@@ -25,3 +25,8 @@
  __Tech Stack__ : HTML, CSS, Javascript, Python, ML & AI, Cloud Computing ( Google Cloud, Azure, Digital Ocean ), Git , Github
  __Social Links__ : [Portfolio](https://pulkitsinghdev.tech) | [Dev](https://dev.to/PulkitSinghDev) | [Twitter](https://twitter.com/PulkitSinghDev) | [Github](https://github.com/PulkitSinghDev) | [Youtube](https://www.youtube.com/channel/UCWvqpm9sTcjgXLkp5Ylro-A) | [Patreon](https://www.patreon.com/pulkitsinghdev)      
  __Portfolio__ : [Holistic Media Pipe](https://codepen.io/pulkitsinghdev/full/qBRpxrj) | [Discord & Twitter Bots]() | [Data Visualizer](https://github.com/PulkitSinghDev/Web-App-for-Data-Visualisation) & more...
+ 
+   - **Name** : Ritesh Kurve
+  **About** : Founder @OnlineGadchiroli | Full Stack Web Developer | Intern @TechVraksh  
+  **Tech Stack** : Java, Materialize CSS, VueJS, PHP, MySQL, Codeigniter
+  **Social Links** : [Linkedin](https://www.linkedin.com/in/ritesh-kurve-57727a1a2)  | [Twitter](https://twitter.com/Ritesh85106128) | [Github](https://github.com/Ritesh9q)
