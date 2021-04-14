@@ -25,3 +25,8 @@
  __Tech Stack__ : HTML, CSS, Javascript, Python, ML & AI, Cloud Computing ( Google Cloud, Azure, Digital Ocean ), Git , Github
  __Social Links__ : [Portfolio](https://pulkitsinghdev.tech) | [Dev](https://dev.to/PulkitSinghDev) | [Twitter](https://twitter.com/PulkitSinghDev) | [Github](https://github.com/PulkitSinghDev) | [Youtube](https://www.youtube.com/channel/UCWvqpm9sTcjgXLkp5Ylro-A) | [Patreon](https://www.patreon.com/pulkitsinghdev)      
  __Portfolio__ : [Holistic Media Pipe](https://codepen.io/pulkitsinghdev/full/qBRpxrj) | [Discord & Twitter Bots]() | [Data Visualizer](https://github.com/PulkitSinghDev/Web-App-for-Data-Visualisation) & more...
+
+ - __Name__ : Saketh Gollapudi           
+ __About__ :I'm Saketh,  I am a computer science student with a passion for web development. I aspire to become a full-stack web developer.
+ __Tech Stack__ : HTML, CSS, JavaScript, Bootstrap, React
+ __Social Links__ : [Linkedin](https://www.linkedin.com/in/saketh-gollapudi-a28512164/) | [Github](https://github.com/saketh018)
