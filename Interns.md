@@ -26,8 +26,15 @@
  __Social Links__ : [Portfolio](https://pulkitsinghdev.tech) | [Dev](https://dev.to/PulkitSinghDev) | [Twitter](https://twitter.com/PulkitSinghDev) | [Github](https://github.com/PulkitSinghDev) | [Youtube](https://www.youtube.com/channel/UCWvqpm9sTcjgXLkp5Ylro-A) | [Patreon](https://www.patreon.com/pulkitsinghdev)      
  __Portfolio__ : [Holistic Media Pipe](https://codepen.io/pulkitsinghdev/full/qBRpxrj) | [Discord & Twitter Bots]() | [Data Visualizer](https://github.com/PulkitSinghDev/Web-App-for-Data-Visualisation) & more...
 
-
+ 
 - __Name__ : Isaiah Abiodun         
  __About__ : Hello All, I am Isaiah. An aspiring software engineer from Lagos, Nigeria. Currently, interning @TechVraksh      
  __Tech Stack__ : HTML, CSS, Javascript, React.js, Node.js, MongoDB
  __Social Links__ : [Linkedin](https://www.linkedin.com/in/abisalde/) | [Twitter](https://twitter.com/abisalde) | [Github](https://github.com/abisalde)
+
+
+- **Name** : Ritesh P. Kurve   
+  **About** : Founder @OnlineGadchiroli | Full Stack Web Developer | Intern @TechVraksh  
+  **Tech Stack** : Java, Materialize CSS, VueJS, PHP, MySQL, Codeigniter    
+  **Social Links** : [Linkedin](https://www.linkedin.com/in/ritesh-kurve-57727a1a2)  | [Twitter](https://twitter.com/Ritesh85106128) | [Github](https://github.com/Ritesh9q)
+
