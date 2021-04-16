@@ -24,4 +24,9 @@
  __About__ : Founder [@PUGroups](https) | Deeplearning.ai Event Ambassador | Author @FreeCodeCamp | Organiser @MLHacks | Community & Opensource Guy & more...       
  __Tech Stack__ : HTML, CSS, Javascript, Python, ML & AI, Cloud Computing ( Google Cloud, Azure, Digital Ocean ), Git , Github
  __Social Links__ : [Portfolio](https://pulkitsinghdev.tech) | [Dev](https://dev.to/PulkitSinghDev) | [Twitter](https://twitter.com/PulkitSinghDev) | [Github](https://github.com/PulkitSinghDev) | [Youtube](https://www.youtube.com/channel/UCWvqpm9sTcjgXLkp5Ylro-A) | [Patreon](https://www.patreon.com/pulkitsinghdev)      
- __Portfolio__ : [Holistic Media Pipe](https://codepen.io/pulkitsinghdev/full/qBRpxrj) | [Discord & Twitter Bots]() | [Data Visualizer](https://github.com/PulkitSinghDev/Web-App-for-Data-Visualisation) & more...
+ __Portfolio__ : [Holistic Media Pipe](https://codepen.io/pulkitsinghdev/full/qBRpxrj) | [Discord & Twitter Bots]() | [Data Visualizer](https://github.com/PulkitSinghDev/Web-App-for-Data-Visualisation) 
+ 
+ - **Name** : Arbaj Saiyyed  
+  **About** : Learning Full Stack Web Development | Intern @TechVraksh  
+  **Tech Stack** : Full Stack Development | Python | C++ | C | Java | HTML | CSS 
+  **Social Links** : [Linkedin](https://www.linkedin.com/in/arbaj-saiyyed/) | [Twitter](https://twitter.com/home) | [Github](https://github.com/saiyyedarbaj) & more...
