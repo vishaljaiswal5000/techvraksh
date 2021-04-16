@@ -3,4 +3,4 @@
 ## Resources:-
 - [License](LICENSE)
 - [Code of Conduct](CODE_OF_CONDUCT.md)
-- [Website](techvraksh.com)
+- [Website](https://techvraksh.com)
