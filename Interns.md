@@ -41,3 +41,7 @@
  __Tech Stack__ : HTML, CSS, JavaScript, Bootstrap, React
  __Social Links__ : [Linkedin](https://www.linkedin.com/in/saketh-gollapudi-a28512164/) | [Github](https://github.com/saketh018)
  
+ - **Name** : Arbaj Saiyyed  
+  **About** : Learning Full Stack Web Development | Intern @TechVraksh  
+  **Tech Stack** : Full Stack Development | Python | C++ | C | Java | HTML | CSS 
+  **Social Links** : [Linkedin](https://www.linkedin.com/in/arbaj-saiyyed/) | [Twitter](https://twitter.com/home) | [Github](https://github.com/saiyyedarbaj) & more...
