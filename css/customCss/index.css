@@ -1,3 +1,7 @@
 .btn {
-	padding-top: 0 !important;
+  padding-top: 0 !important;
+}	
+
+.logo {
+  width: 100px;
 }
