@@ -52,6 +52,6 @@
   **Social Links** : [Linkedin](https://www.linkedin.com/in/arbaj-saiyyed/) | [Twitter](https://twitter.com/home) | [Github](https://github.com/saiyyedarbaj) & more...
 
  - **Name** : Nidhi Nivedita 
-  **About** : Sophomore | CSE Undergrad | Co-organizer- AWS Community | Chapter Lead- InfosecGirls Ranchi | Team Lead- DRISTI(NGO) 
+  **About** : Sophomore | CSE Undergrad | Co-organizer- AWS Community | Chapter Lead- InfosecGirls Ranchi | Team Lead- DRISTI(NGO) <br/>
   **Tech Stack** : C, Java, Python, HTML, DSA  <br/>
   **Social Links** : [Linkedin](https://www.linkedin.com/in/nidhi-nivedita-a40212190/) | [Twitter](https://twitter.com/NidhiNivedita6) | [Github](https://github.com/NidhiNivedita6)
