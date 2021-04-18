@@ -50,8 +50,14 @@
   **About** : Learning Full Stack Web Development | Intern @TechVraksh  
   **Tech Stack** : Full Stack Development | Python | C++ | C | Java | HTML | CSS  <br/>
   **Social Links** : [Linkedin](https://www.linkedin.com/in/arbaj-saiyyed/) | [Twitter](https://twitter.com/home) | [Github](https://github.com/saiyyedarbaj) & more...
+  
+ - __Name__ : Mayank Jha           
+ __About__ : CS Undergrad | Python developer | Opensource contributor | GSSoC'21 Participant | Assistant Organiser- AWS community | Competitive Programmer  <br>
+ __Tech Stack__ : Python, C, Data structure and algorithm, HTML, Cloud Computing, CSS, <br/>
+ __Social Links__ : [Linkedin](https://www.linkedin.com/in/mayank-jha-9276821a5)| [Github](https://github.com/Mayankjha997) | [Twitter](https://twitter.com/the_tech_guy) |  [Hashnode](https://hashnode.com/@Mayjha)  
 
- - **Name** : Nidhi Nivedita 
+- **Name** : Nidhi Nivedita 
   **About** : Sophomore | CSE Undergrad | Co-organizer- AWS Community | Chapter Lead- InfosecGirls Ranchi | Team Lead- DRISTI(NGO) <br/>
   **Tech Stack** : C, Java, Python, HTML, DSA  <br/>
   **Social Links** : [Linkedin](https://www.linkedin.com/in/nidhi-nivedita-a40212190/) | [Twitter](https://twitter.com/NidhiNivedita6) | [Github](https://github.com/NidhiNivedita6)
+
