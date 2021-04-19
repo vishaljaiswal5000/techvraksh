@@ -1,4 +1,4 @@
-<!-- - __Name__ :
+﻿<!-- - __Name__ :
  __About__ :
  __Tech Stack__ :
  __Social Links__ :
@@ -61,3 +61,7 @@
   **Tech Stack** : C, Java, Python, HTML, DSA  <br/>
   **Social Links** : [Linkedin](https://www.linkedin.com/in/nidhi-nivedita-a40212190/) | [Twitter](https://twitter.com/NidhiNivedita6) | [Github](https://github.com/NidhiNivedita6)
 
+- __Name__ : Nur A Alam Patwary           
+ __About__ : Nuclear Engineer, Comp-bio & Bioinformatics Software Development Enthusiast, Image Processing Fanatic <br/>
+ __Tech Stack__ : Python | Javascript| C | Matlab | SQLite | Data Structure and Algorithm | Bioinformatics Algorithms <br/>
+ __Social Links__ : [Linkedin](www.linkedin.com/in/nur-a-alam-hridoy-770bba11b)| [Github](https://github.com/Nur-A-Alam-1997) | [Twitter](https://twitter.com/Nur_Hrid)
